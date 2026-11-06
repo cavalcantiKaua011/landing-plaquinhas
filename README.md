@@ -15,9 +15,9 @@ npm run build && npm start
 - Para adicionar depoimentos reais (com autorização), preencha `provaSocial.depoimentos` em `content.ts`. O bloco aparece sozinho.
 
 ## Confirmar antes de publicar (busque por CONFIRMAR em content.ts)
-1. Material e acabamento: acrílico, impressão HD UV e resistência.
-2. Prazo de produção.
-3. Se o destino pode mesmo ser trocado sem reimprimir. Isso exige um link de redirecionamento, não o link direto do Google.
+1. ~~Material~~ confirmado em 5/11: PS de 2 mm, impressão HD UV, recorte.
+2. ~~Prazo~~ resolvido: "informado depois da aprovação da arte".
+3. ~~Troca de destino~~ confirmada: o sistema placas-NFC redireciona por /r/CODIGO.
 4. Prova social: hoje diz "Estamos abrindo as primeiras parcerias". Só troque para "Primeiras empresas já estão utilizando" se for verdade.
 5. Título com "clientes satisfeitos": o Google proíbe pedir avaliação só para quem gostou. Alternativa: "Transforme atendimentos em avaliações reais."
 6. A venda das placas ainda não foi confirmada como disponível.

@@ -53,13 +53,13 @@ export const beneficios = [
   { icone: 'target', titulo: 'Mais resultado', texto: 'O momento certo vira ação, ainda no balcão.' },
 ];
 
-// CONFIRMAR: materiais e acabamento informados pelo time.
+// Material confirmado em 5/11/2026: PS de 2 mm, impressão HD UV, recorte, chip NFC e QR Code.
 export const qualidade = [
-  { titulo: 'Acabamento premium', texto: 'Acrílico com acabamento limpo, que fica bem no balcão.' },
+  { titulo: 'Acabamento premium', texto: 'Placa rígida em PS de 2 mm, com recorte e acabamento limpo.' },
   { titulo: 'Impressão HD UV', texto: 'Cores vivas e nítidas, que não desbotam com facilidade.' },
   { titulo: 'QR Code permanente', texto: 'Funciona em qualquer celular com câmera.' },
   { titulo: 'Chip NFC integrado', texto: 'Embutido na placa, sem nada para conectar.' },
-  { titulo: 'Feita para o dia a dia', texto: 'Resiste a toques, limpeza e uso constante.' },
+  { titulo: 'Feita para o dia a dia', texto: 'Pensada para ficar no balcão, na mesa ou na recepção.' },
 ];
 
 export const comparativo = [
@@ -91,8 +91,7 @@ export const faq = [
   { p: 'Funciona em Android?', r: 'Sim, nos aparelhos com NFC ativado. Se o NFC estiver desligado ou não existir, o QR Code resolve.' },
   { p: 'Posso alterar o destino depois?', r: 'Sim. A placa usa um endereço permanente, e o destino pode ser ajustado sem reimprimir.' },
   { p: 'Posso usar Google ou Instagram?', r: 'Sim. Há artes para Google, Instagram e WhatsApp, cada uma em versão colorida e preta.' },
-  // CONFIRMAR: troque pelo prazo real quando estiver definido.
-  { p: 'Quanto tempo leva para produzir?', r: 'O prazo é informado no orçamento, de acordo com a quantidade e a personalização.' },
+  { p: 'Quanto tempo leva para produzir?', r: 'O prazo é informado depois da aprovação da arte, de acordo com a quantidade.' },
 ];
 
 export const ctaFinal = {
