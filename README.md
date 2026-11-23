@@ -1,6 +1,17 @@
-# Landing Plaquinhas NFC
+# Landing · Plaquinhas NFC
 
-Next.js 14 (App Router) + TypeScript + Tailwind + Framer Motion. Página estática, sem backend.
+Página de venda das **Plaquinhas NFC** da KR Code Soluções: o cliente do balcão aproxima o celular (ou lê o QR Code) e cai direto na avaliação do Google, no Instagram ou no WhatsApp do negócio.
+
+**No ar:** [landing-plaquinhas.vercel.app](https://landing-plaquinhas.vercel.app) · **Sistema de gestão:** [placas-NFC](https://github.com/cavalcantiKaua011/placas-NFC)
+
+## O que tem aqui
+- Apresentação do produto, modelos de arte e como funciona a aproximação.
+- Orçamento que monta a mensagem e abre o WhatsApp. Nenhum dado é salvo.
+- Conteúdo inteiro em um arquivo (`lib/content.ts`), para trocar texto sem mexer em componente.
+
+**Stack:** Next.js 14 (App Router) · TypeScript · Tailwind CSS · Framer Motion · Vercel. Página estática, sem backend.
+
+## Rodar localmente
 
 ```bash
 npm install
